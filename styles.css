@@ -1,0 +1,33 @@
+p{
+    max-width: 700px;
+    line-height: 1.6;
+}
+body{
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+} 
+img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+    display: block;
+    margin-top: 0;
+}
+h2{
+    margin-top: 40px;
+    color: #8b4513;
+}
+h1 {
+    text-align: center;
+    font-size: 42px;
+    color: #8B4513;
+    margin-bottom: 15px;
+}
+.subtitle {
+    text-align: center;
+    max-width: none;
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 10px;
+}
